@@ -6,4 +6,4 @@ When that savage and horrendous plague ravaged this city, I shut
  
 myself in my cell and prayed the clemency of God to have mercy on us, to turn aside the wrath which threatened us. A voice came to  
  
-me, saying: ‘Abba Zachaios has obtained this favour’.  
+me, saying: ‘Abba Zachaios has obtained this favour’.
