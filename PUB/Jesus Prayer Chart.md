@@ -1,3 +1,11 @@
+links: [[HUB]]
+
+---
+# Jesus Prayer Chart
+*Description*
+    
+### Chart
+
 |  | Rule for the Jesus Prayer | Rule for bows with Jesus prayer | Rule for Reading the Psalter | Rule for Psalter if unable to perfrom previous rule | Another rule for bows with the Jesus Prayer | Alternative rule from the nomo-canon |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | 
 | [[Vespers]]                | 600 prayers | 300 bows | 2 kathismas |1 kathisma | 200 bows | 100 bows | 
@@ -19,3 +27,7 @@ All the bows are from the waist. During the [[Great Lent]] 17 bows bows to the g
 During the [[Great Lent]], after kathisma there are special troparion, prayers and bows as ordered by the [[Psalter]].
 
 The [[Services]] listed here should each begin and end with the customary [[Introductory and Departure Bows]].
+
+    
+---
+tags: #needsEdit 

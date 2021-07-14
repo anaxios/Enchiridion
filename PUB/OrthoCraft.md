@@ -22,4 +22,4 @@ links: [[HUB]]
     - **[Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)** adds a self-writing fullscreen map to your Minecraft client. Works as a separate mod but is a lot better with Xaero's Minimap. The reason why it's available separately is to keep Xaero's Minimap as light-weight as possible.
     - **[Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)** Clean and Customizable. An easy way to browse recipes.
 ---
-tags:
+tags: #needsEdit #Minecraft
