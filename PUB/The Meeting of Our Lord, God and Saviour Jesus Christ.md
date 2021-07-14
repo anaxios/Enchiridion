@@ -29,7 +29,7 @@ links:
 ### The Righteous Simeon
 The righteous Simeon is said to have lived hundreds of years before his meeting with our Lord Jesus Christ in the temple. He was one of the translators of the Septuagint. When he translated *"Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel."* [[Isaiah 7#^14|Isaiah 7:14]] he couldn't conceive in himself the possibility that a virgin could do such a thing. So, he prayed God would let him live long enough to see such a miracle, and God granted it to him.
 
-In the [[447-february-2|Prologue]] we read that after the pronouncements of the Righteous Simeon and the Prophetess Anna was heard by the Pharisees St. Joseph and the Holy Virgin fled to Egypt with the Christ Child.
+In the [[033-february-2|Prologue]] we read that after the pronouncements of the Righteous Simeon and the Prophetess Anna was heard by the Pharisees St. Joseph and the Holy Virgin fled to Egypt with the Christ Child.
 
 ### Purification
 Every Jewish women who conceived a son was considered unclean because of the blood spilled and was to keep herself and the child from the temple or anything sanctified to God for 7 days. On the 8th day she was to bring the son to be circumcised by the priests. After the eighth day she was to continue her purification for 33 days. After this time of purification the mother was to bring a yearling lamb for a burnt offering and a turtledove for a sin offering. [[Leviticus 12]]
