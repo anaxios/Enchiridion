@@ -1,0 +1,16 @@
+- FRONT OF THE MEDAL
+    - Above the chalice and the raven in the center, on either side of Saint Benedict: 
+        - Crux Sancti Patris Benedicti (Cross of the Holy Father Benedict)
+    - Words around the perimeter of the medal:
+        - Ejus in obitu nro praesentia muniamur (May we at our death be fortified by his presence)
+
+ - BACK OF THE MEDAL
+    - Initials on the cross in the center:
+        - C. S. S. M. L. - N. D. S. M. D.: Crux Sacra Sit Mihi Lux (The Holy Cross be my light)
+    - Non Draco Sit Mihi Dux (Let not the dragon be my guide)
+    - Circles by the four corners of the cross:
+        - C S P B: Crux Sancti Patris Benedicti (Cross of the Holy Father Benedict)
+    - Initials around the perimeter:
+        - V R S N S M V - S M Q L I V B: Vade Retro Satana, Nunquam Suade Mihi Vana—Sunt Mala Quae Libas, Ipse Venena Bibas (Step back, Satan, do not suggest to me thy vanities —evil are the things thou profferest, drink thou thy own poison)
+    - And at the top:
+        - Pax (Peace)
