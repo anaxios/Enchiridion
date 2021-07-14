@@ -1,10 +1,9 @@
-links: [[HUB]]
-
----
-# {{title}}
-*Description*
-    
-### Sections
-    
----
-tags: #needsEdit 
+- Basic Page
+  template:: Basic LYT
+  template-including-parent:: false
+	- tags: #needsEdit
+	- links: [[HUB]]
+	  
+	  *Description*
+	  ---
+	- ## Sections
