@@ -1,7 +1,6 @@
 links:
 
 ---
-beep
 # HUB
 "Let no man deceive himself. If any man among you seemeth to be wise in this world, let him become a fool, that he may be wise." [[1 Corinthians 3#^18|1 Corinthians 3:18]]
 
@@ -16,7 +15,6 @@ beep
 	- [[Articles MOC|Articles]] — 
 	- [[Tech Resources MOC|Tech Resources]] —
 	- [[Tutorials MOC|Tutorials]] —
-	- blah blah blah
 ---
 %%
 **Tags** — #needsEdit  | #toWrite | #active
