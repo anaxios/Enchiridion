@@ -6,6 +6,7 @@ Collections of writings of the Church.
 - [[Bible]]
 - [[Spiritual Meadow]]
 - [[On Job - St Gregory the Great]]
+- [[On Fasting Homily I - St Basil the Great]]
 - [[Prologue of Ochrid]]
 
 ### Letters / Homilies
