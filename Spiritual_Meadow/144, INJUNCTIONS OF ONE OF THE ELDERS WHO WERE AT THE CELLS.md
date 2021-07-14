@@ -20,4 +20,4 @@ or remembering what has gone before, but pressing toward the imark for the prize
  
 A brother asked the elder: ‘Why am I always sitting in judgment on my brothers?’ The elder replied: ‘Because you do not yet know yourself. Someone who knows himself does not see the short-  
  
-comings of his brothers.’  
+comings of his brothers.’ 
