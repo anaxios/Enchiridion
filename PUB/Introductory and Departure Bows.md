@@ -11,7 +11,7 @@ links: [[HUB]]
 
 # Introductory and Departure Bows
 
-_Description_
+_These prayers are from the Old Believer Prayer Book_
 
 When it is time for the monk to depart from his cell, or the laymen to depart from his home, he first performs the Introductory Bows, saying this:
 
@@ -29,6 +29,6 @@ When it is time for the monk to depart from his cell, or the laymen to depart fr
 
 - _Then he says:_ Through the prayers of Thy most pure Mother _and he commemorates the saint whose temple it is, or the saint of the monastery;_ and of my holy [[Guardian Angel]], and of all Thy saints, Lord Jesus Christ, Son of God, have mercy on me, a sinner.
 
-- _But some say the Dismissal of the Beginning Bows thus:_ Lord Jesus Christ, Son of God, through the prayers of Thy most pure Mother: _and the rest, as instructed above, but the ending is said thus:_ . . . . and of all Thy saints, Lord Jesus Christ, Son of God, have mercy  and save me, for Thou art Good and lovest mankind.
+- _But some say the Dismissal of the Beginning Bows thus:_ Lord Jesus Christ, Son of God, through the prayers of Thy most pure Mother: _and the rest, as instructed above, but the ending is said thus:_ . . . . and of all Thy saints, Lord Jesus Christ, Son of God, have mercy and save me, for Thou art Good and lovest mankind.
 
 ---
