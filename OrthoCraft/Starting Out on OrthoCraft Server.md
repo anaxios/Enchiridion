@@ -9,10 +9,10 @@ date updated: '2021-07-16T01:35:01-04:00'
 
 3. Import this instance which should have everything required to play:
 
-   ["OrthoCraft-1.17"](https://1drv.ms/u/s!AjXDDFgGVagYhfhn09zBqFSwYXsnzw?e=stJCkS)
-   %% Old version
-   ["OrthoCraft-1.17"](https://1drv.ms/u/s!AjXDDFgGVagYhfhiwjq9BXmtMDnbGw?e=0Wlorz)
-   %%
+    ["OrthoCraft-1.17"](https://1drv.ms/u/s!AjXDDFgGVagYhfhn09zBqFSwYXsnzw?e=1fzshi)
+    %% Old version
+    ["OrthoCraft-1.17"](https://1drv.ms/u/s!AjXDDFgGVagYhfhiwjq9BXmtMDnbGw?e=0Wlorz)
+    %%
 
 4. Read the [[OrthoCraft Server Rules]]
 
