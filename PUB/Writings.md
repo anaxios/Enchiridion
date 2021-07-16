@@ -27,3 +27,7 @@ _Collections of writings of the Church._
 
 - [[Sayings of St Anthony the Great]]
 - [[Rule of St Benedict]]
+
+### Info
+- [[St Benedict Medal]]
+- [[The Father Should Not be Depicted in Iconography]]
