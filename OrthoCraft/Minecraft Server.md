@@ -1,7 +1,7 @@
 ---
 tags:
   - '#needsEdit'
-date updated: '2021-07-16T01:27:24-04:00'
+date updated: '2021-07-16T01:35:56-04:00'
 
 ---
 
@@ -9,11 +9,11 @@ WARNING! _This page my contain information that is out of date!_
 
 ### Getting Started
 
-- [[rules]]
-- [[starting-out]]
+- [[Starting Out on OrthoCraft Server]]
+- [[OrthoCraft Server Rules]]
 - Discord:
   - [OrthoCraft](https://discord.gg/fNhMMTZFxU)
-- [[mods]]
+- [[OrthoCraft Server Mods]]
 
 ### Testing Server
 

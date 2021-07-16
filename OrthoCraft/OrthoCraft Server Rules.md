@@ -8,7 +8,7 @@
 ## Griefing & Raiding
 - Raiding unclaimed houses, areas, stores, etc. is not allowed. Being destructive towards other player's builds is bannable.
 ## Hacking
-- Any hacking or unapproved mods are not allowed on the server. Hacks include but are not limited to XRay, PVP hacks such as kill aura, auto-soup, auto-armor, etc. You can find a full list of approved mods in [[starting-out]] after downloading the instance.
+- Any hacking or unapproved mods are not allowed on the server. Hacks include but are not limited to XRay, PVP hacks such as kill aura, auto-soup, auto-armor, etc. You can find a full list of approved mods in [[Starting Out on OrthoCraft Server]] after downloading the instance.
 ## Bugs & Glitches
 - Do not use bugs with any plugins or Minecraft to your advantage. This includes but is not limited to duplicating items, swim mining, etc. If you find any bugs with the server, please report them to a staff member, and we will look into fixing them.
 ## Macros/Scripts
