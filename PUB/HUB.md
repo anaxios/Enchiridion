@@ -7,7 +7,7 @@ links:
 ### Home Stuff
 - [[Minecraft Server]] — #Minecraft #gaming
 - Spiritual Stuff
-	- [[Prayer MOC|Prayer]] — #prayer 
+	- [[Prayer]] — #prayer 
 	- [[Writings MOC|Writings]] — #HolyFathers | #Theology | #Morality
 	- [[Resources MOC|Resources]] — #Resources
 - Technology Stuff

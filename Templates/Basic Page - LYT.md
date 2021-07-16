@@ -1,7 +1,6 @@
 links: [[HUB]]
 
 ---
-# {{title}}
 *Description*
     
 ### Sections

@@ -3,6 +3,6 @@
 ---
 
 ```dataview
-	TABLE file.name FROM "Prologue Of Ochrid"
+	TABLE file FROM "Prologue Of Ochrid"
 	
 ```
