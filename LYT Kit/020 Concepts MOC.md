@@ -16,7 +16,7 @@ For my work as an editor/AE in TV, I know to improve my craft means the steady a
 
 [[Natural Selection]] is one of the mega-concepts. It helps me decipher the signal from the noise through the mechanism of considering the [[Lindy Effect]], along with [[Hormesis]] and [[Antifragility]]—and also more broadly [[Cause and Effect]].
 
-In times of stress it helps me to broaden my perspective and consider concepts like: [[Ying and Yang]], [[LYT Kit/Synthesis]], [[Seasons]].
+In times of stress it helps me to broaden my perspective and consider concepts like: [[Ying and Yang]], [[Synthesis-LYT]], [[Seasons]].
 
 Dealing with folks in the entertainment industry—and just throughout life really—there are plenty of instances to consider ways to handle ego and aggression. The most fascinating is [[No-Face]] from Spirited Away, which leads to [[The Id]]. [[Aikido]] is good to remember.
 
@@ -47,7 +47,7 @@ These are random categories that I chose because they make sense to me. Yours mi
 
 #### Finding Balance
 - [[Ying and Yang]]
-- [[LYT Kit/Synthesis]]
+- [[Synthesis-LYT]]
 - [[Seasons]]
 
 #### Dealing with Aggression
@@ -77,7 +77,7 @@ These are random categories that I chose because they make sense to me. Yours mi
 - [[Natural Selection]]
 - [[Cause and Effect]]
 - [[Ying and Yang]]
-- [[LYT Kit/Synthesis]]
+- [[Synthesis-LYT]]
 - [[Seasons]]
 - [[Lindy Effect]] 
 
@@ -112,7 +112,7 @@ A-Z manual lists are usually a waste of time because they will just become outda
 - [[Rubik's Cube]]
 - [[Seasons]]
 - [[Shadow Clone]]
-- [[LYT Kit/Synthesis]]
+- [[Synthesis-LYT]]
 - [[Ying and Yang]]
 
 ---
