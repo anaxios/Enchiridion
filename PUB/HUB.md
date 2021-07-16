@@ -6,9 +6,6 @@ date updated: '2021-07-16T00:31:03-04:00'
 
 ---
 
-links:
-
----
 
 _"Let no man deceive himself. If any man among you seemeth to be wise in this world, let him become a fool, that he may be wise."_ [[1 Corinthians 3|1 Corinthians 3:18]] 
 

@@ -16,7 +16,9 @@ The first virtue is detachment, that is, death in relation to every person or th
 ---
 Say to your soul: 'If you are afraid of sinners like yourself seeing your sins, how much more should you be afraid of God who notes everything?' As a result of this warning the fear of God will be revealed in your soul, and if you cleave to Him you will not be shaken by the passions: for it is written: 'They that trust in the Lord shall be as Mount Zion: he that dwells in Jerusalem shall never be shaken' (Ps. 125:1. LXX). Whatever you are doing, remember that God sees all your thoughts, and then you will never sin. To Him be glory through all the ages. Amen. — location: [177](kindle://book?action=open&asin=B01D587BS2&location=177)
 
----
+
+# Evagrios the Solitary
+
 To be ashamed to accept is a kind of pride. — location: [230](kindle://book?action=open&asin=B01D587BS2&location=230)
 
 ---
@@ -70,7 +72,7 @@ Blessed is the monk who regards every man as God after God. — location: [788](
 ---
 Blessed is the monk who looks with great joy on everyone's salvation and progress as if they were his own. — location: [789](kindle://book?action=open&asin=B01D587BS2&location=789)
 
----
+# St John Cassian
 Bodily illness is not an obstacle to purity of heart, provided we give the body what its illness requires, not what gratifies our desire for pleasure. Food is to be taken in so far as it supports our life, but not to the extent of enslaving us to the impulses of desire. To eat moderately and reasonably is to keep the body in health, not to deprive it of holiness. — location: [858](kindle://book?action=open&asin=B01D587BS2&location=858)
 
 ---
