@@ -99,7 +99,7 @@ And we will not be granted true spiritual knowledge so long as the passion of un
 ---
 A man who gives someone a knife for some necessary and useful purpose is not to blame if that person uses it to commit murder. — location: [929](kindle://book?action=open&asin=B01D587BS2&location=929)
 
----
+# St Teodoros the Great 5326
 The Fathers define prayer as a spiritual weapon. Unless we are armed with it we cannot engage in warfare, but are carried off as prisoners to the enemy's country. Nor can we acquire pure prayer unless we cleave to God with an upright heart. For it is God who gives prayer to him who prays and who teaches man spiritual knowledge. — location: [5369](kindle://book?action=open&asin=B01D587BS2&location=5369)
 
 ---
@@ -120,7 +120,7 @@ Do not judge the actions of your spiritual father, but obey his commands. For th
 ---
 the greater our longing for God the greater grows our fear; and the more we hope to attain God, the more we fear Him. If we are wounded by divine love, the sting of fear exceeds that of a thousand threats of punishment. For as nothing is more blessed than to attain God, so nothing is more terrible than this great fear of losing Him. — location: [5804](kindle://book?action=open&asin=B01D587BS2&location=5804)
 
----
+# St Maximos the Confessor 5875
 we who plague people with words are many nowadays, while those who teach or are taught by actions are very few. — location: [5931](kindle://book?action=open&asin=B01D587BS2&location=5931)
 
 ---
