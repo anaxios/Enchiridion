@@ -10,7 +10,9 @@ links:
 
 ---
 
-_"Let no man deceive himself. If any man among you seemeth to be wise in this world, let him become a fool, that he may be wise."_ [[1 Corinthians 3|1 Corinthians 3:18]]
+_"Let no man deceive himself. If any man among you seemeth to be wise in this world, let him become a fool, that he may be wise."_ [[1 Corinthians 3|1 Corinthians 3:18]] 
+
+_"But pray that, above all things, the gates of light may be opened to you; for these things cannot be perceived or understood by all, but only by the man to whom God and His Christ have imparted wisdom."_ St. Justin Martyr
 
 ### Home Stuff
 
