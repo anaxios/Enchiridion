@@ -1,7 +1,10 @@
 ---
+tags:
+  - '#Prologue'
+date updated: '2021-07-16T00:36:35-04:00'
 
 ---
-
-[[184-july-2|July 15]]
-[[185-july-3|July 16]]
-[[186-july-4|July 17]]
+Links are new calender references to old calendar readings:
+- [[July 2|July 15]]
+- [[July 3|July 16]]
+- [[July 4|July 17]]

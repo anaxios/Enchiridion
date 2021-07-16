@@ -2,7 +2,7 @@
 tags:
   - '#needsEdit'
   - '#MOC'
-date updated: '2021-07-16T00:27:57-04:00'
+date updated: '2021-07-16T00:31:03-04:00'
 
 ---
 
@@ -20,13 +20,11 @@ _"Let no man deceive himself. If any man among you seemeth to be wise in this wo
   - [[Writings]] — #HolyFathers | #Theology | #Morality
   - [[Resources]] — #Resources
 - Technology Stuff
-  - [[Cheat Sheet]] —
-  - [[Manuals]] —
-  - [[Articles]] —
-  - [[Tech Resources]] —
-  - [[Tutorials]] —
-
----
+  - [[Cheat Sheet]]
+  - [[Manuals]]
+  - [[Articles]]
+  - [[Tech Resources]]
+  - [[Tutorials]]
 
 %%
 **Tags** — #needsEdit  | #toWrite | #active
