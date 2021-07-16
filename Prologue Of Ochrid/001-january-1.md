@@ -1,8 +1,8 @@
 ---
 tags:
-  - '#prologue'
-OC: 
-date updated: '2021-07-15T23:11:54-04:00'
+  - '#Prologue'
+aliases:
+date updated: '2021-07-15T23:47:43-04:00'
 
 ---
 

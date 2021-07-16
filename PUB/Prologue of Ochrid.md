@@ -2,7 +2,4 @@
 
 ---
 
-```query
-tag:#Prologue
-	
-```
+[[184-July-2|July 15]]
