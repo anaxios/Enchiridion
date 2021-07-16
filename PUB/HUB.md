@@ -8,12 +8,12 @@ links:
 - [[Minecraft Server]] — #Minecraft #gaming
 - Spiritual Stuff
 	- [[Prayer]] — #prayer 
-	- [[Writings MOC|Writings]] — #HolyFathers | #Theology | #Morality
-	- [[Resources MOC|Resources]] — #Resources
+	- [[Writings]] — #HolyFathers | #Theology | #Morality
+	- [[Resources]] — #Resources
 - Technology Stuff
-	- [[Cheat Sheet MOC|Cheet Sheets]] — 
-	- [[Manuals MOC|Manuals]] — 
-	- [[Articles MOC|Articles]] — 
+	- [[Cheat Sheet]] — 
+	- [[Manuals]] — 
+	- [[Article]] — 
 	- [[Tech Resources MOC|Tech Resources]] —
 	- [[Tutorials MOC|Tutorials]] —
 ---

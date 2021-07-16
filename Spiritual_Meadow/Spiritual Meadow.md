@@ -1,4 +1,4 @@
- links: [[Writings MOC]] | [[JOHN EVIRATUS]]
+ links: [[Writings]] | [[JOHN EVIRATUS]]
  
  ---
 

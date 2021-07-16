@@ -1,4 +1,4 @@
-links: [[Writings MOC]] | [[St Gregory the Great]]
+links: [[Writings]] | [[St Gregory the Great]]
 
 # THE BOOKS OF THE MORALS OF ST. GREGORY THE POPE, OR AN EXPOSITION ON THE BOOK OF BLESSED JOB.
 
