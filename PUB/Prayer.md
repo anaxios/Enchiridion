@@ -1,7 +1,10 @@
+---
+tags: #needsEdit #prayer 
+---
+
 links: [[HUB]]
 
 ---
-# Prayer
 *Description*
     
 ### Jesus Prayer
@@ -9,4 +12,4 @@ links: [[HUB]]
 - [[Introductory and Departure Bows]]
     
 ---
-tags: #needsEdit #prayer
+
