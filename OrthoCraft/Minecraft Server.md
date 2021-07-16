@@ -12,13 +12,13 @@ WARNING! _This page my contain information that is out of date!_
 - [[Starting Out on OrthoCraft Server]]
 - [[OrthoCraft Server Rules]]
 - Discord:
-  - [OrthoCraft](https://discord.gg/fNhMMTZFxU)
+    - [OrthoCraft](https://discord.gg/fNhMMTZFxU)
 - [[OrthoCraft Server Mods]]
 
 ### Testing Server
 
 - Instance:
-  - ["OrthoCraft-1.17.1"](https://1drv.ms/u/s!AjXDDFgGVagYhfhj5puRezCZ_9G6GQ?e=LA6ebd)
+    - ["OrthoCraft-1.17.1"](https://1drv.ms/u/s!AjXDDFgGVagYhfhj5puRezCZ_9G6GQ?e=LA6ebd)
 
 ### Admin Info
 
@@ -27,4 +27,4 @@ WARNING! _This page my contain information that is out of date!_
 - [[Fun commands]]
 - [[cool seeds]]
 - Mob Switch placement
-  - -122 ~ 124
+    - -122 ~ 124
