@@ -12,7 +12,7 @@ Another example is from St. Macarios, he and a novice were walking a long distan
 
 The sins commited by the brother in the first story and the pagan priest in the second were very great sins, but we can see the difference between how the judging brothers and the overly zealous novice treated these sinners and how the holy men treated them.
 
-The scripture says that we will be judged by how we judge others. We will be judge very harshly by God because of the hatred and grudges we hold against those we think are lesser than we are. Why do we so readily judge others and have no compassion for their faults? It's because we don't see ourselves truly--we have built up egos for ourselves. We forget that we are very far from God. We make excuses to justify our hatred toward others, thinking that our own sins will be overlooked but our neighbors sins will condemn them.
+The scripture says that we will be judged by how we judge others. We will be judge very harshly by God because of the hatred and grudges we hold against those we think are lesser than we are. Why do we so readily judge others and have no compassion for their faults? It's because we don't see ourselves truly—we have built up egos for ourselves. We forget that we are very far from God. We make excuses to justify our hatred toward others, thinking that our own sins will be overlooked but our neighbors sins will condemn them.
 
 [[St Maximos the Confessor]] says in the [[Philokalia]],
 
