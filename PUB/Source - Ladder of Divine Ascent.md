@@ -52,34 +52,34 @@
         - 
     - Chapter 1 Summary
 - [[1c - Renunciation of the world]]
-- # Notes:
-    - 1. Renunciation of the World
-    - 2. Detachment
-    - 3. Exile or pilgrimage
-    - 4. Blessed obedience
-    - 5. True repentance
-    - 6. Remembrance of death 
-    - 7. Joy-making mourning
-    - 8. Freedom from anger - meekness
-    - 9. On remembrance of wrongs
-    - 10. On slander calumny
-    - 11. On talkativeness & silence
-    - 12. On lying
-    - 13. On despondency
-    - 14. On the stomach
-    - 15. On purity & chastity
-    - 16. On love of money - avarice
-    - 17. On non-possesiveness
-    - 18. On insensibiblity
-    - 19. On sleep, prayer, and psalmnody
-    - 20. On bodily vigil and how to make it spiritual
-    - 21. On unmanliness - cowardice
-    - 22. On multiform vainglory
-    - 23. On pride & blasphemous thoughts
-    - 24. On meekness, simplicity, & guilelessness
-    - 25. On humility - the bane of passions
-    - 26. On discernment
-    - 27. On stillness of body & soul
-    - 28. On holy prayer
-    - 29. Concerning heaven & earth, Godlike dispassion & resurrection of the soul before the general resurrection
-    - 30. Linking the supreme Trinity among the virtues
+ # Notes:
+ 1. Renunciation of the World
+2. Detachment
+3. Exile or pilgrimage
+- 4. Blessed obedience
+- 5. True repentance
+- 6. Remembrance of death 
+- 7. Joy-making mourning
+- 8. Freedom from anger - meekness
+- 9. On remembrance of wrongs
+- 10. On slander calumny
+- 11. On talkativeness & silence
+- 12. On lying
+- 13. On despondency
+- 14. On the stomach
+- 15. On purity & chastity
+- 16. On love of money - avarice
+- 17. On non-possesiveness
+- 18. On insensibiblity
+- 19. On sleep, prayer, and psalmnody
+- 20. On bodily vigil and how to make it spiritual
+- 21. On unmanliness - cowardice
+- 22. On multiform vainglory
+- 23. On pride & blasphemous thoughts
+- 24. On meekness, simplicity, & guilelessness
+- 25. On humility - the bane of passions
+- 26. On discernment
+- 27. On stillness of body & soul
+- 28. On holy prayer
+- 29. Concerning heaven & earth, Godlike dispassion & resurrection of the soul before the general resurrection
+- 30. Linking the supreme Trinity among the virtues
