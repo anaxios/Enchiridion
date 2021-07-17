@@ -1,6 +1,7 @@
 ---
 aliases: ➡
 ---
+### A claim is:
 - An assertion made by a [[Source]] (very rarely can be sourceless, if it's something I am very sure of but can't remember where I learned it).
 - Can be assembled into [[Synthesis]]es .
 - If you're referring to a claim a lot you it should be marked with a source, but most claims aren't used anywhere and I want low friction to creating them, so you may just have to look it up in the references.

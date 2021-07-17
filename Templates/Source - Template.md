@@ -7,7 +7,8 @@
 	- [[Preparatory Brain Dump]]:
 	- [[Table of Contents]]:
 	- [[Notes]]:
-		- Chapter 1 Pre Read
-		- Chapter 1
-			- has [[Claim]]s
-		- Chapter 1 Summary
+		- Chapter 1 Pre Read:
+		- Chapter 1:
+			- has [[Claim|➡]] "Claims"
+			- and [[Quote|❝]] "Quotes"
+		- Chapter 1 Summary:
