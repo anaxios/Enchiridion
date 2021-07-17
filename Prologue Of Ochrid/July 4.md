@@ -2,8 +2,6 @@
 tags:
   - '#Prologue'
 aliases: July 17
-date updated: '2021-07-16T00:01:13-04:00'
-
 ---
 
 ## SAINT ANDREW, ARCHBISHOP OF CRETE

@@ -2,12 +2,9 @@
 tags:
   - '#needsEdit'
   - '#MOC'
-date updated: '2021-07-16T00:31:03-04:00'
-
 ---
 
-
-_"Let no man deceive himself. If any man among you seemeth to be wise in this world, let him become a fool, that he may be wise."_ [[1 Corinthians 3|1 Corinthians 3:18]] 
+_"Let no man deceive himself. If any man among you seemeth to be wise in this world, let him become a fool, that he may be wise."_ [[1 Corinthians 3|1 Corinthians 3:18]]
 
 _"But pray that, above all things, the gates of light may be opened to you; for these things cannot be perceived or understood by all, but only by the man to whom God and His Christ have imparted wisdom."_ St. Justin Martyr
 
@@ -15,18 +12,18 @@ _"But pray that, above all things, the gates of light may be opened to you; for 
 
 - [[Minecraft Server]] — #Minecraft #gaming
 - Spiritual Stuff
-  - [[Prayer]] — #prayer
-  - [[Writings]] — #HolyFathers | #Theology | #Morality
-  - [[Resources]] — #Resources
+    - [[Prayer]] — #prayer
+    - [[Writings]] — #HolyFathers | #Theology | #Morality
+    - [[Resources]] — #Resources
 - Technology Stuff
-  - [[Cheat Sheet]]
-  - [[Manuals]]
-  - [[Articles]]
-  - [[Tech Resources]]
-  - [[Tutorials]]
+    - [[Cheat Sheet]]
+    - [[Manuals]]
+    - [[Articles]]
+    - [[Tech Resources]]
+    - [[Tutorials]]
 
 %%
-**Tags** — #needsEdit  | #toWrite | #active
+**Tags** — #needsEdit | #toWrite | #active
 
 **Tag-Pages** — [[TODO]] | [[Open Questions]] | [[To Read]]
 
