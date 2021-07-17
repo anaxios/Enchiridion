@@ -1,4 +1,5 @@
 ---
+title: OrthoCraft
 tags:
   - '#needsEdit'
   - '#MOC'
@@ -8,7 +9,7 @@ _"Let no man deceive himself. If any man among you seemeth to be wise in this wo
 
 _"But pray that, above all things, the gates of light may be opened to you; for these things cannot be perceived or understood by all, but only by the man to whom God and His Christ have imparted wisdom."_ St. Justin Martyr
 
-![[Theotokos-oncloud-transparent.png]]
+![[Theotokos-oncloud-transparent.png|100]]
 
 ### Home Stuff
 
@@ -25,7 +26,7 @@ _"But pray that, above all things, the gates of light may be opened to you; for 
     - [[Tutorials]]
 
 ---
-Aν πεθάνεις, πριν πεθάνεις, δεν θα πεθάνεις, όταν πεθάνεις.  
+Aν πεθάνεις, πριν πεθάνεις, δεν θα πεθάνεις, όταν πεθάνεις.
 If you die before you die, then you won't die when you die.
 
 %%
