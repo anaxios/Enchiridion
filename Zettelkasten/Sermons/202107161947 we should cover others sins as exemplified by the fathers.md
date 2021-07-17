@@ -1,6 +1,6 @@
 ---
 tags: 
-  - '#Synthesis'
+  - '#Sermon'
   - '#needsEdit'
 ---
 
@@ -14,7 +14,7 @@ The sins commited by the brother in the first story and the pagan priest in the 
 
 The scripture says that we will be judged by how we judge others. We will be judge very harshly by God because of the hatred and grudges we hold against those we think are lesser than we are. Why do we so readily judge others and have no compassion for their faults? It's because we don't see ourselves truly--we have built up egos for ourselves. We forget that we are very far from God. We make excuses to justify our hatred toward others, thinking that our own sins will be overlooked but our neighbors sins will condemn them.
 
-St. Maxmios says in the Philokalia,
+[[St Maximos the Confessor]] says in the [[Philokalia]],
 
 > If we detect any trace of hatred in our hearts against any man whatsoever for committing any fault, we are utterly estranged from love for God, since love for God absolutely precludes us from hating any man. . . .Blessed is he who can love all men equally.
 
