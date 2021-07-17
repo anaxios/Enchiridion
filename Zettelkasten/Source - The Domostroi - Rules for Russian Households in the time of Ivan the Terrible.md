@@ -8,10 +8,13 @@
 	- [[Table of Contents]]:
 	- [[Notes]]:
 		- Introduction:
-			- [[Claim|➡]] The nobility had precidence in position that extended even to seats at gatherings called _mestnichsto_. It caused incesent squabbling. pg 9
+			- [[Claim|➡]] The nobility had precidence in position that extended even to seats at gatherings called _mestnichstvo_. It caused incesent squabbling. pg 9
 			- [[Claim|➡]] A social class developed among the traders called the _gosti_. they controlled international trade and the royal monopolies like vodka, salt, and copper. pg 12
 			- [[Claim|➡]] [[Slavery]] was the [[welfare]] program of the time. A person was guarenteed room and bored in exchange for work. I person might choose to sell themselves into slavery if they couldn't find patronage, if they were an artisan. pg 13
-			- [[Claim|➡]] the [[Slavery]] system was relatively mild com
+			- [[Claim|➡]] the [[Slavery]] system was relatively mild compared to most systems, because they slave class where of the same race as their owners. pg 16
+			- [[Claim|➡]] Women were relegated to traditional roles and in the upperclass were segregated in daily life from  the men. pg 17
+			- [[Claim|➡]] Until the 1700s women's monasteries held more authority and the abbesses especially. This was a rare alternative to patriarchal society that dominated the time. pg 18
+			- 
 		- Chapter 1 Pre Read: 
 		- Chapter 1:
 			- has [[Claim|➡]] "Claims"
