@@ -30,3 +30,4 @@ _Collections of writings of the Church._
 ### Info
 - [[St Benedict Medal]]
 - [[The Father Should Not be Depicted in Iconography]]
+- [[Ranks of the Angelic Powers]]
