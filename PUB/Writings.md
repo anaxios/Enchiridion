@@ -12,16 +12,15 @@ _Collections of writings of the Church._
 ### Books
 
 - [[Bible]]
+- [[Prologue of Ochrid]]
 - [[Spiritual Meadow]]
 - [[On Job - St Gregory the Great]]
-- [[On Fasting Homily I - St Basil the Great]]
-- [[Prologue of Ochrid]]
 
 ### Letters / Homilies
 
 - [[On Fasting Homily I - St Basil the Great]]
 - [[Counsels From The Holy Mountain - Elder Ephraim]]
-- [[Bulletin]]
+- [[Sermons]]
 
 ### Sayings
 
