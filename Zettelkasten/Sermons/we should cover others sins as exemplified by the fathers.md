@@ -4,6 +4,8 @@ tags:
   - '#needsEdit'
 ---
 
+[[Sermons]]
+
 The fathers teach us by example that we should not be ready to expose others sins and in fact we should cover their sins and pray for their repentance.
 
 One example is the abba in the Saying of he Desert fathers when a brother was accused by his brethern of having a woman in his cell. Even though the brother was committing this scadalous sin the abba still sat on the barrell where the woman was hidded so the brother could come to repentance without the scorn and judgement from the other brothers.
