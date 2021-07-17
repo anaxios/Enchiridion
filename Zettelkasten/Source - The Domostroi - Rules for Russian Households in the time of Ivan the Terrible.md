@@ -9,6 +9,9 @@
 	- [[Notes]]:
 		- Introduction:
 			- [[Claim|➡]] The nobility had precidence in position that extended even to seats at gatherings called _mestnichsto_. It caused incesent squabbling. pg 9
+			- [[Claim|➡]] A social class developed among the traders called the _gosti_. they controlled international trade and the royal monopolies like vodka, salt, and copper. pg 12
+			- [[Claim|➡]] Slavery was the welfare program of the time. A person was guarenteed room and bored in exchange for work. I person might choose to sell themselves into slavery if they couldn't find  pg 13
+			- 
 		- Chapter 1 Pre Read: 
 		- Chapter 1:
 			- has [[Claim|➡]] "Claims"
