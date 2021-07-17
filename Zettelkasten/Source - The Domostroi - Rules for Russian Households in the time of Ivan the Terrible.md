@@ -16,6 +16,7 @@
 			- [[Claim|➡]] Until the 1700s women's monasteries held more authority and the abbesses especially. This was a rare alternative to patriarchal society that dominated the time. pg 18
 			- [[Claim|➡]] Married parish priests made up the vast majority of the [[clergy]]. They lived mostly in villages and were supported mainly by village and so rarely contradited them. They were mostly uneducated and were poor influencers on society. pg 18
 			- [[Claim|➡]] The Church was mostly subservant to the tsar and played only a minor role in politics. It was mostly only influential socially. pg 19
+			- [[Claim|➡]] A printing press opened breifly in Moscow in 1564 and was quickly mobbed and burned as being diabolical. pg 19
 			- 
 		- Chapter 1 Pre Read: 
 		- Chapter 1:
