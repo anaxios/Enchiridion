@@ -1,0 +1,15 @@
+- [[Source]]
+- [[Claim]]
+- [[Crux]]
+- [[Credence]]
+- [[Synthesis]]
+- [[Question]]
+- [[Quote]]
+- I have an idea for using emoji symbols to to help [[Deep Reading Process]] to be less visually cluttered.
+    - [[Source|📖]] Source
+    - [[Claim|➡]] Claim
+    - [[Crux|☩]] crux
+    - [[Credence|⭐️]] credence
+    - [[Zettelkasten/Synthesis|🗃]] synthesis
+    - [[Question|❓]] Question
+    - [[Quote|❝]] Quote
