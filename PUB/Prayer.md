@@ -5,7 +5,7 @@ tags: #needsEdit #prayer
 links: [[HUB]]
 
 ---
-*Description*
+*Various prayers that can be read in private.*
     
 
 - Jesus Prayer
