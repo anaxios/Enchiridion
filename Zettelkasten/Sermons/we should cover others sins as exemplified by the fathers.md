@@ -1,10 +1,9 @@
 ---
 tags: 
-  - '#Sermon'
   - '#needsEdit'
 ---
 
-[[Sermons]]
+#Sermon
 
 The fathers teach us by example that we should not be ready to expose others sins and in fact we should cover their sins and pray for their repentance.
 
