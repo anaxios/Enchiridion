@@ -4,10 +4,10 @@
 	- [[Published]]: Conell University Press 1994 
 	- [[Thesis]]: Gain a peek into Russian life in the 16th century
 	- [[Pagination]]: page numbers
-	- [[Preparatory Brain Dump]]: To have a book to conduct every detail of life makes me a little claustrophbic, but I'm a monk so this shouldn't make this reaction in me. The strct rules for living seem to be in stark contrast to the laidback lifestyle of America now and the world in 
+	- [[Preparatory Brain Dump]]: To have a book to conduct every detail of life makes me a little claustrophbic, but I'm a monk so this shouldn't make this reaction in me. The strct rules for living seem to be in stark contrast to the laidback lifestyle of America now and the western world in general.
 	- [[Table of Contents]]:
 	- [[Notes]]:
-		- Chapter 1 Pre Read:
+		- Chapter 1 Pre Read: 
 		- Chapter 1:
 			- has [[Claim|➡]] "Claims"
 			- and [[Quote|❝]] "Quotes"
