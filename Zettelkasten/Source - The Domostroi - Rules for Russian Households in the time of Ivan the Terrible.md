@@ -14,6 +14,8 @@
 			- [[Claim|➡]] the [[Slavery]] system was relatively mild compared to most systems, because they slave class where of the same race as their owners. pg 16
 			- [[Claim|➡]] Women were relegated to traditional roles and in the upperclass were segregated in daily life from  the men. pg 17
 			- [[Claim|➡]] Until the 1700s women's monasteries held more authority and the abbesses especially. This was a rare alternative to patriarchal society that dominated the time. pg 18
+			- [[Claim|➡]] Married parish priests made up the vast majority of the [[clergy]]. They lived mostly in villages and were supported mainly by village and so rarely contradited them. They were mostly uneducated and were poor influencers on society. pg 18
+			- [[Claim|➡]] The Church was mostly subservant to the tsar and played only a minor role in politics. It was mostly only influential socially. pg 19
 			- 
 		- Chapter 1 Pre Read: 
 		- Chapter 1:
