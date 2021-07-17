@@ -8,7 +8,7 @@ The fathers teach us by example that we should not be ready to expose others sin
 
 One example is the abba in the Saying of he Desert fathers when a brother was accused by his brethern of having a woman in his cell. Even though the brother was committing this scadalous sin the abba still sat on the barrell where the woman was hidded so the brother could come to repentance without the scorn and judgement from the other brothers.
 
-Another example is from St. Macrious, he and a novice were walking a long distance to go to a feast day celebration and the novice ran ahead and met a pagan priest along the way. The novice derided and condemned the priest for his evil practices and the pagan priest beat him to death. A while later Abba Macarios met the priest on the road and greeted him, "man of God" (as the translation puts it) and asked the priest why he was so upset and with only those kind words the pagan priest was converted and became a monk.
+Another example is from St. Macarios, he and a novice were walking a long distance to go to a feast day celebration and the novice ran ahead and met a pagan priest along the way. The novice derided and condemned the priest for his evil practices and the pagan priest beat him to death. A while later Abba Macarios met the priest on the road and greeted him, "man of God" (as the translation puts it) and asked the priest why he was so upset and with only those kind words the pagan priest was converted and became a monk.
 
 The sins commited by the brother in the first story and the pagan priest in the second were very great sins, but we can see the difference between how the judging brothers and the overly zealous novice treated these sinners and how the holy men treated them.
 
