@@ -4,13 +4,15 @@ OUTPUT_FOLDER="output/Prologue_of_Ochrid"
 INPUT_FOLDER='Prologue Of Ochrid'
 
 spin() {
+    echo "${@}"
     while true; do
         spinner=( '-' '\' '|' '/' )
         for i in "${spinner[@]}"; do
-            echo -ne "\r${i} $@"
+            echo -ne "\r${i}"
             sleep .05
         done
     done
+    echo ""
 }
 
 for file in "$INPUT_FOLDER"/*; do
