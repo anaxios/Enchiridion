@@ -1,75 +1,6 @@
 const fs = require("fs");
 const { v4: uuidv4 } = require("uuid");
 
-const prompt = `I. Title
-
-The title is in all capital letters, with a double hash symbol (##) preceding it.
-
-The title is a brief description of the main topic of the page.
-
-II. Main Text
-
-The main text is divided into sections, each with a heading in all capital letters, with a triple hash symbol (###) preceding it.
-
-The sections are:
-
-A description of a feast day or event.
-
-A biography of a saint.
-
-A hymn of praise or a quote from a church father.
-
-A contemplation or reflection on a spiritual topic.
-
-A homily or sermon on a specific topic.
-
-Each section is separated from the others by a blank line.
-
-There may be a section that is not listed.
-
-III. Section Headings
-
-Section headings are usually a brief description of the content of the section. The number index should be removed. 
-Do not replace the section heading text if it has one. If it doesn't have one, add one that is appropriate to the section. An appropriate
-heading may be the names of the saints or the topics of the feasts.
-
-IV. Text Formatting
-
-The text is written in a formal, liturgical style.
-
-Sentences are often long and complex, with multiple clauses.
-
-The text includes quotes from scripture and church fathers, which are set off in italics.
-
-The text also includes rhetorical questions and exclamations.
-
-V. Special Formatting
-
-The text includes special formatting for certain elements, such as:
-
-Scripture quotes, which are set off in italics and include the book and chapter of the quote.
-
-Names of saints and church fathers, which are in bold font.
-
-Liturgical phrases and quotes, which are in italics.
-
-VI. Conclusion
-
-The text concludes with a prayer or a final thought, which is set off from the rest of the text by a blank line.
-
-The conclusion is often a brief summary of the main points of the text, or a final reflection on the topic.`;
-// prettier-ignore
-const prompt2 = `
-Format the given text following these directions:
-
-- Replace the existing headers with standardized headers using Markdown and remove numbers.
-- Use header levels (##, ###) to create a hierarchical structure for the text.
-- Use a consistent naming convention for section titles.
-- Add empty lines between sections to create a clear separation between different parts of the text.
-- Remove the YAML front-matter (---) and any unnecessary metadata.
-- Keep the original text intact, without any changes to the content or formatting within the sections apart from punctuation and typos.
-`;
-
 class OpenAIClient {
   constructor(apiKey, printer) {
     this.apiKey = apiKey;
@@ -155,18 +86,26 @@ class OllamaAIClient {
   }
 }
 
-const apiKey = process.env.OPENAI_API_KEY;
-const togetherApiKey = process.env.TOGETHER_API_KEY;
-
-const client = new OpenAIClient(apiKey, new Printer()); // new TogetherAIClient(togetherApiKey, new Printer());
-
-const input = fs.readFileSync(0, "utf8");
-
-client.send(prompt2, input);
-
 class Printer {
   constructor() {}
   print(text) {
     console.log(text);
   }
 }
+
+const apiKey = process.env.OPENAI_API_KEY;
+const togetherApiKey = process.env.TOGETHER_API_KEY;
+
+const promptFile = process.argv.findIndex(
+  (x) => x === "-p" || x === "--prompt"
+);
+let prompt = null;
+if (promptFile) {
+  prompt = require("./" + process.argv[promptFile + 1]);
+}
+
+const client = new OpenAIClient(apiKey, new Printer()); // new TogetherAIClient(togetherApiKey, new Printer());
+
+const input = fs.readFileSync(0, "utf8");
+
+client.send(prompt, input);

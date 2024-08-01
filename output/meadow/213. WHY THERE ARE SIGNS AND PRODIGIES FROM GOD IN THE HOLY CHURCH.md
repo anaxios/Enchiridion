@@ -1,0 +1,3 @@
+## WHY THERE ARE SIGNS AND PRODIGIES FROM GOD IN THE HOLY CHURCH
+
+One of the elders spoke of the divine prodigies that happen in the Church of God even now due to the godless heresies that used to flourish and still do, particularly because of the heresy of Severus Acephalos and the pernicious sects associated with it. These prodigies occur for the assurance and confirmation of weaker souls and for the conversion of the sectaries themselves, should they be so disposed. For these reasons, miracles were performed daily in the Catholic Church of God (as they still are) by the godly fathers and, before them, by the holy martyrs.

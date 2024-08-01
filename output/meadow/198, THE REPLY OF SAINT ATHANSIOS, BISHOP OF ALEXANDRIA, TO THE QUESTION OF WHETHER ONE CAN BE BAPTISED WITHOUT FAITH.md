@@ -1,0 +1,5 @@
+## THE REPLY OF SAINT ATHANASIUS, BISHOP OF ALEXANDRIA, TO THE QUESTION OF WHETHER ONE CAN BE BAPTISED WITHOUT FAITH
+
+Saint Athanasius, the Pope of Alexandria, was once asked whether a person could be baptized whose beliefs were not in accordance with the faith and preaching of the Christians, and what would be the fate of—or how would God receive—somebody who had been baptized under false pretenses and had simulated belief. 
+
+Athanasius replied: “You have heard from those of old how the blessed martyr, Peter, was faced with a situation in which there was a deadly plague and many were running to be baptized for no other reason than that they feared death. A figure appeared to him that had the appearance of an angel and said to him: ‘How much longer are you going to send from here those purses which are duly sealed, but are altogether empty and have nothing inside them?’ So far as one can tell from the saying of the angel, those who have the seal of baptism are indeed baptized since they thought they were doing a good work in receiving baptism.”

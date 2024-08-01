@@ -1,0 +1,13 @@
+## The Life of a Bishop Who Left His Throne and Came to the Holy City Where He Changed His Clothes and Became a Builder's Labourer 
+
+One of the fathers told of a bishop who left his own diocese and came into Theoupolis, where he worked as a labourer. At that time, the Count of the East was Ephraim, a merciful and compassionate man; so much so that he was rebuilding the public edifices, as the city had been dilapidated by an earthquake. 
+
+One night, Ephraim saw the bishop lying down, with a column of fire standing over him that reached up into heaven. As he had this vision not once, but several times, Ephraim was greatly amazed, for it was an awesome and truly astounding apparition. He asked himself what it might be, for he had no idea that the workman was a bishop. How could he have known that the labourer was a bishop, considering his uncombed hair and shabby clothing? This was a poverty-stricken man, broken down by much endurance, asceticism, labour, and the continuous burden of toil. 
+
+One day, Ephraim sent for the labourer who was once a bishop, wanting to learn more about him. He took him aside and began asking him where he was from and what his name was. The sometime bishop replied, "I am one of the poor men of this city. For lack of any support, I work as a labourer, and God sustains me by my toil." 
+
+God prompted Ephraim to insist, "Believe me, I shall not let you go until you tell me the whole truth about yourself." Unable to conceal himself any longer, the bishop said, "Give me your word that you will never tell anybody what you are about to hear from me as long as I am still alive, and I will tell you about myself. But I will not tell you my name or the name of my city." 
+
+The godly Ephraim swore to him: "I will not tell anybody what you are about to tell me as long as it pleases God to keep you in this life." The bishop then revealed, "I am a bishop. At the behest of God, I left my diocese and came to this place, because it was totally unknown to me. Here I have suffered affliction and laboured at menial tasks. By my toil, I earn a little bread, but you should add what you can by way of almsgiving. For in these days, God is going to raise you up to the throne of Theoupolis to be the shepherd of His people, which Christ our true God purchased by His own blood. As I said to you, you are to strive for almsgiving and orthodoxy. By such sacrifices, you will be well-pleasing to God.” 
+
+Within a few days, it came about as he had predicted. When the blessed Ephraim had heard the bishop out, he glorified God, saying, “Oh, how many hidden servants God has, and they are known only to Him alone!”

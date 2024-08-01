@@ -1,0 +1,3 @@
+## THE LIFE OF PATRICK, AN ELDER AT THE ATTRRE MONASTERY OF SKOPELOS
+
+There was an elder living in the monastery of our holy father, Theodosios, who was a native of Sebasteia in Armenia, and his name was Patrick. He was of very great age, claiming to be one hundred and thirteen years old, very humble, and given to silence. The fathers of that place told us that this virtuous elder had once been higoumen of the community at Abazan; he had abandoned that position for fear of the judgment. "It is for great men to shepherd the spiritual sheep," he said. Thus, he came here and put himself under obedience, believing that this would be more beneficial to his soul.

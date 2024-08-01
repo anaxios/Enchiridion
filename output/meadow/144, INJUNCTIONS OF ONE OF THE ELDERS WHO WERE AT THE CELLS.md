@@ -1,0 +1,11 @@
+## INJUNCTIONS OF ONE OF THE ELDERS WHO WERE AT THE CELLS
+
+One of the elders said to the brethren at The Cells: “Let us not enslave ourselves to the pleasures of Egypt, which deliver us into the hands of the wicked tyrant, Pharaoh.” Again, he said: “If only people would care as much for good things as they care about that which is bad! If only they would transfer to a yearning for piety all the attention they lavish on spectacles, magnificent festivals, avarice, vain-glory, and injustice. We are not ignorant of how highly God values us, nor are we powerless against the demons.”
+
+Again, he stated: “Nothing is greater than God; nothing is equal to Him; nothing is only a little inferior to Him. What then is stronger or more blessed than someone who has the help of God?” He continued: “God is everywhere. He draws near to those who live devoutly and fight the spiritual battle; to those whose religion goes further than mere pronouncements and is distinguished by their deeds. Where God is present, who would wish to hatch conspiracies? Who would be strong enough to inflict any hurt?”
+
+Again, he remarked: “The strength of man does not lie in his physical constitution, for that is subject to change. It lies rather in his intention, assisted by God. Let us therefore care for our souls as we do for our bodies, children.” He further encouraged: “Let us gather together the cures of the soul: piety, righteousness, humility, submission. The greatest physician of souls, Christ our God, is near to us and is willing to heal us; let us not underestimate Him.”
+
+Once more, he advised: “The Lord teaches us to be sober, but wretches that we are, we become yet more addicted to the delights of the flesh through soft living.” He encouraged: “Let us offer ourselves to God, as Saint Paul says, as living men returned from the dead (Romans 6:13), neither looking back nor remembering what has gone before, but pressing toward the mark for the prize of the high calling (Philippians 3:14).”
+
+A brother asked the elder: “Why am I always sitting in judgment on my brothers?” The elder replied: “Because you do not yet know yourself. Someone who knows himself does not see the shortcomings of his brothers.”
