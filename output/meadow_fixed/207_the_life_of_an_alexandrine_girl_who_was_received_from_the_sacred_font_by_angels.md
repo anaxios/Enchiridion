@@ -1,0 +1,21 @@
+## THE LIFE OF AN ALEXANDRINE GIRL WHO WAS RECEIVED FROM THE SACRED FONT BY ANGELS
+
+Abba Theonas and Abba Theodore said that in the time of the Patriarch Paul, there was a maiden in Alexandria who lost both her parents, who had possessed a great fortune. The girl was unbaptized at the time of her bereavement. One day, she went apart into the garden that her parents had left her (for there are gardens in the middle of the city, in the houses of the great ones). 
+
+While she was in the garden, she saw a man preparing to hang himself. She rushed to him and said, “What are you doing, good man?” He replied, “Look, leave me alone, woman, for I am in great affliction.” The maiden said to him, “Tell me the truth, for perhaps I may be able to help you.” He told her, “I am heavily in debt, and my creditors are putting pressure on me to repay them. I have chosen to die rather than lead such a woeful existence.” 
+
+The maiden said to him, “I beg of you, take whatever I have and give it to them; only please do not destroy yourself.” He took what she offered and paid off his debts. Then the girl began to run into difficulties. Having no one to look after her (because she had been deprived of her parents) and being in great need, she began to prostitute herself. Some people who knew her and were aware of the standing which her parents had enjoyed in society said, “Who knows the judgments of God or why He allows a soul to fall for some reason or other?”
+
+Some time later, the girl fell ill and came back to her senses. Consumed with remorse, she said to her neighbors, “For the sake of the Lord, have mercy on my soul; speak to the pope about making me a Christian.” But they all laughed at her and said, “As if he would accept this woman who is a prostitute!” This caused her great distress. 
+
+While she was in this condition and feeling very frustrated, an angel of the Lord stood by her in the form of the man on whom she had compassion. He said to her, “What is the trouble?” She replied, “I desire to become a Christian, and nobody will stand up for me.” He asked, “Do you really want this?” She replied, “Yes, I beg of you.” He said, “Take courage; I will get some people to take you to church.” He brought two others, who were also angels, and they carried her to the church. 
+
+Then, they transformed themselves into illustrious personages of prefect rank. They summoned the clergy charged with the responsibility for baptisms, and these asked, “Your Charity will vouch for her?” They answered, “Yes.” Then the clergy did what was called for in the service for those who are about to be baptized; they baptized her in the name of the Father and of the Son and of the Holy Spirit, and they vested her in the garment of the neophyte. 
+
+Clothed in white, she returned home, carried by the angels, who set her down and promptly disappeared. When the neighbors saw her all in white, they asked her, “Who baptized you?” She told them of those who had taken her to church, how they had spoken to the clergy, and how the clergy had baptized her. They inquired who those people were, to which she would give no answer. So they went and reported the matter to the pope. 
+
+He summoned those in charge of the baptistry and asked them, “Did you baptize that woman?” They admitted that they had baptized her, adding that she had been vouched for by so-and-so of prefectorial rank. The bishop sent for those whom they had named and inquired whether they had vouched for her. They replied, “We are not aware of having done so, nor do we know anybody else who has.” Then the bishop realized that this was divine business. 
+
+He summoned the woman and asked, “Tell me, daughter, what good have you done?” She said, “I am a prostitute and a poor woman too; what good could I do?” He asked her, “Are you not aware of ever having done any good deed at all?” She responded, “No, except that I once saw a man about to hang himself because he was being harassed by his creditors. I gave him my entire fortune and freed him of his debt.” 
+
+She said this and fell asleep in the Lord, released from both her voluntary and involuntary deeds of sin. Then the bishop glorified God and said, “Righteous you are, O God, and upright are your judgments.” (Ps 118:137)

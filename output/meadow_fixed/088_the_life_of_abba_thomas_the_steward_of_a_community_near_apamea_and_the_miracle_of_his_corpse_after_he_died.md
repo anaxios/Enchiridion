@@ -1,0 +1,7 @@
+## THE LIFE OF ABBA THOMAS, THE STEWARD OF A COMMUNITY NEAR APAMEA AND THE MIRACLE OF HIS CORPSE AFTER HE DIED
+
+When we were at Theoupolis (Antioch), a priest of the church told us about the steward of a community in the district of Apamea, Abba Thomas. He came into Theoupolis to attend to the needs of the monastery. While he was lingering there, he died at Daphne, in the Church of Saint Euphemia. As he was a stranger, the local clergy buried him in the strangers’ burial-ground.
+
+The following day, they buried a woman and laid her on top of him, which was around the second hour. Around the ninth hour, the earth threw her up. When the local people saw this, they were amazed. They buried her again that evening in the same grave, but the next day they found her remains on top of the tomb. So, they took the body and buried it in another grave.
+
+A few days later, they buried another woman and laid her above the monk, not realizing that he would not allow a woman to be buried on top of him. When the earth threw up this woman too, they realized that the elder would not tolerate a woman being buried above him. They then went to Domninos, the patriarch (546-559), who caused all the city to come to Daphne with candles and with the singing of psalms, to bring forth the relics of that holy man. They buried him in the cemetery where many relics of holy martyrs lie, and they built a small oratory over him.

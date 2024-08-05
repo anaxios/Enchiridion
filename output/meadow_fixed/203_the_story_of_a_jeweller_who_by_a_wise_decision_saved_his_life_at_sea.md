@@ -1,0 +1,15 @@
+## The Story of a Jeweller Who, by a Wise Decision, Saved His Life at Sea
+
+One of the fathers said there was a jeweller of the kind known as a gem-engraver. He had some very valuable stones and pearls when he went aboard a ship together with his servants. It was his intention to go do business elsewhere. By the providence of God, it happened that he became very fond of a member of the ship’s crew who was detailed to wait upon him. This servant slept near him and ate the same food as he did. 
+
+One day, this boy heard the sailors whispering to each other and deciding among themselves to throw the gem-engraver into the sea to get their hands on the stones he had with him. It was a very disturbed servant who went in to wait on the good man as usual. 
+
+“Why are you so subdued today, boy?” asked the jeweller, but the other kept his counsel and said nothing. He asked him again, “Come now, tell me what is the matter?” At this, the servant broke down into tears and sobbed out that the sailors were planning to do this and that to the jeweller. 
+
+The jeweller asked, “Is this really so?” 
+
+“Yes,” was the reply; “that is what they have decided among themselves to do to you.” 
+
+Then the jeweller called his servants and said to them, “Whatever I tell you to do, do it at once and without arguing.” He then unfolded a linen cloth and said to them, “Bring the inlaid chests,” and they brought them. He opened them and began taking out the stones. When they were all set out, he began to say, “Is this what life is all about? Is it for these that I put my life in danger and at the mercy of the sea when, in a little while, I shall die and take nothing with me out of this world?” 
+
+He said to his servants, “Empty it all into the sea.” As soon as he spoke, they cast the riches into the sea. The sailors were amazed—and their conspiracy was frustrated.
